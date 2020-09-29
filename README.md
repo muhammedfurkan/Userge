@@ -100,7 +100,7 @@ async def test_filter(message: Message):
 
 * **[HEROKU](https://www.heroku.com/) Method** 🚀
 
-  > First click [**this**](https://heroku.com/deploy?template=https://github.com/UsergeTeam/Userge/tree/master)
+  > First click [**this**](https://heroku.com/deploy?template=https://github.com/muhammedfurkan/Userge/)
 
   > Fill `API_ID`, `API_HASH`, `DATABASE_URL` and `LOG_CHANNEL_ID` (**required**)
 
